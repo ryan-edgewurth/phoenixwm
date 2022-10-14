@@ -3,7 +3,7 @@
 # Project Configuration						     #
 ######################################################################
 
-pkg_name="berry"
+pkg_name="phoenixwm"
 pkg_verstr="0.1.7"
 pkg_bugreport="Joshua L Ervin <joshue@uw.edu>"
 
