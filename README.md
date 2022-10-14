@@ -3,7 +3,7 @@
     <h2>PhoenixWM and PhoenixWMc</h2><br>
 </div>
 
-A window manager for Phoenix Desktop Enviroment, based off BerryWM and is installed as part of the [https://github.com/ryan-edgewurth/phoenixde-install](install scripts).
+A window manager for Phoenix Desktop Enviroment, based off BerryWM and is installed as part of the [https://github.com/ryan-edgewurth/phoenixde-install] (install scripts).
 
 
 # Usage
